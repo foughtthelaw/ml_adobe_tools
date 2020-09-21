@@ -2,10 +2,10 @@
 A collection of miscellaneous tools used in video production with Adobe Creative Cloud apps. The main difference between this and [kbar_snippets](https://github.com/foughtthelaw/kbar_snippets) is that these have their own UI.
 
 ##AE
-### Mogrt Tools
+### [Mogrt Tools](https://github.com/foughtthelaw/ml_adobe_tools/blob/main/ae/ml_mogrtTools.jsxbin)
 I started making lots of `.mogrt` flies around the same time I started trying to get serious about learning to write scripts for After Effects.
 
-### Lots o' Comps
+### [Lots o' Comps](https://github.com/foughtthelaw/ml_adobe_tools/blob/main/ae/ml_LotsOComps.jsxbin)
 For when the producer in your life emails you a list of deliverable sizes and you'd rather just copy and paste the details.
 
 <!-- ##PR
