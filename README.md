@@ -1,7 +1,7 @@
 # ml_adobe_tools
 A collection of miscellaneous tools used in video production with Adobe Creative Cloud apps. The main difference between this and [kbar_snippets](https://github.com/foughtthelaw/kbar_snippets) is that these have their own UI.
 
-##AE
+## AE
 ### [Mogrt Tools](https://github.com/foughtthelaw/ml_adobe_tools/blob/main/ae/ml_mogrtTools.jsxbin)
 I started making lots of `.mogrt` flies around the same time I started trying to get serious about learning to write scripts for After Effects.
 
