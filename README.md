@@ -10,7 +10,7 @@ I started making lots of `.mogrt` flies around the same time I started trying to
 For when the producer in your life emails you a list of deliverable sizes and you'd rather just copy and paste the details.
 
 ### Expression Libraries
-#### [responsive_layout.jsx](https://github.com/foughtthelaw/ml_adobe_tools/blob/main/ae/exp_lib/responsive_layout.jsx)
+#### [responsive_layout.jsx](https://github.com/foughtthelaw/ml_adobe_tools/blob/main/ae/exp_lib/responsive_layout.jsx  )
 Functions for a responsive layout workflow using Master Properties.
 
 #### [library_boilerplate.jsx](https://github.com/foughtthelaw/ml_adobe_tools/blob/main/ae/exp_lib/library_boilerplate.jsx)

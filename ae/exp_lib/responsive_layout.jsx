@@ -18,7 +18,7 @@
         },
         "nScaleUniform" : function(){
           let scaleFactor;
-          if(thisComp.width > thisComp.height){
+          if(thisComp.width < thisComp.height){
             scaleFactor = thisComp.height/thisLayer.source.height;
           }else{
             scaleFactor = thisComp.width/thisLayer.source.width;
