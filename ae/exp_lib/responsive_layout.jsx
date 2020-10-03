@@ -18,12 +18,15 @@
         },
         "nScaleUniform" : function(){
           let scaleFactor;
-          if(thisComp.width < thisComp.height){
-            scaleFactor = thisComp.height/thisLayer.source.height;
-          }else{
-            scaleFactor = thisComp.width/thisLayer.source.width;
+          if(thisComp.width > thisComp.height){
+              scaleFactor = thisComp.height/thisLayer.source.height;
+            }else{
+              scaleFactor = thisComp.width/thisLayer.source.width;
           }
           return thisLayer.mul(value, scaleFactor)
+        },
+        "CompDimensions" : function(comp){
+          return [comp.width,comp.height]
         }
       }
   })(),
